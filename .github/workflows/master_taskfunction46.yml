@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'taskFunction46'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A7A11C4AA8847AD9E37CEB6F5082B7C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB157497FF5F44CFB656580F38DCF913 }}
           package: .
